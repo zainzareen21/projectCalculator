@@ -2,7 +2,7 @@
  * The calculator class provides methods for performing basic arithmetic operations on floating-point
  * numbers.
  */
-public class calculator {
+public class basiccalculator {
     /**
      * The function "add" takes two float numbers as input and returns their sum.
      * 
@@ -60,7 +60,7 @@ public class calculator {
         // The line `calculator calculator = new calculator();` is creating a new instance of the
         // `calculator` class and assigning it to the variable `calculator`. This allows us to access
         // the methods and variables of the `calculator` class using the `calculator` object.
-        calculator calculator = new calculator();
+        calculator basiccalculator = new basiccalculator();
 
         // The lines `float num1 = 22.0f;` and `float num2 = 0f;` are declaring and initializing two
         // float variables named `num1` and `num2`.
