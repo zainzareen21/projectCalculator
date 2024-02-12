@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class calculator
+class basiccalculator
 {
     // float addition( float n1, float n2)
     // {
@@ -24,7 +24,7 @@ public static void main(String args[])
     Scanner s= new Scanner(System.in);
     System.out.println("Enter the numbers ");
 
-    calculator c=new calculator();
+    basiccalculator c=new basiccalculator();
 // float n1=s.nextFloat();
 // float n2=s.nextFloat();
 System.out.println("Addition:" + c.addition(n1,n2));
